@@ -11,8 +11,8 @@ Esse projeto foi desenvolvido como parte do curso de Python do Professor 	[Luiz 
 ---
 1. A calculadora vai te pedir 2 números, você deve utilizar apenas números, inteiros ou float.
 2. Depois você vai colocar a operação que deseja realizar, lembrando os operadores são:
-  + para soma
-  - para subtração
-  x para multiplicação
-  / para divisão
+  (+) para soma
+  (-) para subtração
+  (x) para multiplicação
+  (/) para divisão
 3. Depois você receberá o resultado.
